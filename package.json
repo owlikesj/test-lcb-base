@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.0.0-beta.5",
+    "react": "16.0.0-beta.5",
     "react-native": "git@github.com:owlikesj/react-native-fork.git"
   }
 }
