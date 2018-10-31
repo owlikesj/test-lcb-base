@@ -11,6 +11,10 @@
   "dependencies": {
     "react": "16.0.0-beta.5",
     "react-native": "git@github.com:owlikesj/react-native-fork.git",
+    "react-native-device-info": "^0.11.0",
     "react-native-svg": "5.4.1"
-  }
+  },
+  "bundledDependencies": [
+    "react", "react-native", "react-native-svg"
+  ]
 }
